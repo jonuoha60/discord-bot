@@ -19,7 +19,7 @@ intents.message_content = True
 intents.members = True
 
 bot = commands.Bot(command_prefix="*", intents=intents, help_command=None)
-banned_words = ["fuck", "nigger", "nigga", "fag", "faggot", "queer", "niggas"]
+banned_words = [""]
 server_role = "Gamer"
 
 
